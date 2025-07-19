@@ -1,0 +1,6 @@
+# 忽略 Webpack 缓存目录
+.next/cache/
+
+# 可选：忽略其他不需要部署的文件
+.next/analytics/
+.next/trace
